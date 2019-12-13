@@ -1,0 +1,36 @@
+{
+  "name": "stock_app_cookbook",
+  "description": "Installs/Configures stock_app_cookbook",
+  "long_description": "Installs/Configures stock_app_cookbook",
+  "maintainer": "match8969",
+  "maintainer_email": "match8969@yahoo.co.jp",
+  "license": "All Rights Reserved",
+  "platforms": {
+
+  },
+  "dependencies": {
+    "opsworks_ruby": "= 1.8.0",
+    "yum": "~> 5.1.0"
+  },
+  "providing": {
+
+  },
+  "recipes": {
+
+  },
+  "version": "0.1.0",
+  "source_url": "",
+  "issues_url": "",
+  "privacy": false,
+  "chef_versions": [
+    [
+      ">= 14.0"
+    ]
+  ],
+  "ohai_versions": [
+
+  ],
+  "gems": [
+
+  ]
+}
