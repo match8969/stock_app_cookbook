@@ -71,8 +71,8 @@ nodes
 
 # ## JetBrains files
  *.idea
-# .idea
-# .idea/
+ .idea
+ .idea/
 
 # ## Mono files
 # *.pidb
@@ -124,5 +124,5 @@ nodes
 # ~$*
 
 
-.gz
-.tar
+*.gz
+*.tar
